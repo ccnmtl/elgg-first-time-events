@@ -3,7 +3,6 @@
 	<field key="author" value="Ethan Jucovy" />
 	<field key="version" value="0.1" />
 	<field key="description" value="Provides custom elgg event triggers for the first time a user performs certain actions" />
-	<field key="website" value="http://www.globalmdp.org" />
-	<field key="copyright" value="I don't know" />
-	<field key="licence" value="GNU Public License version 3" />
+	<field key="website" value="http://community.elgg.org" />
+	<field key="licence" value="GNU Public License v3" />
 </plugin_manifest>
